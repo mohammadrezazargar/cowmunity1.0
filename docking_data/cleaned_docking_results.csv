@@ -1,0 +1,5 @@
+molecule_name,protein_name,enzyme_id,reaction_id,binding_affinity_um,binding_energy_kcal_mol,inhibition_type,confidence_score,species,binding_site
+Imidazole,Methyl-coenzyme M reductase (Mcr),EC:1.2.7.12,R_rxn03126_c0,0.006162578723726243,-3.015,competitive inhibitor,1.0,MGK,active site
+L-carnitine,Methyl-coenzyme M reductase (Mcr),EC:1.2.7.12,R_rxn03126_c0,0.00018251130377811432,-5.1,competitive inhibitor,1.0,MGK,active site
+Methyl jasmonate,Methyl-coenzyme M reductase (Mcr),EC:1.2.7.12,R_rxn03126_c0,0.00011300428797205392,-5.384,competitive inhibitor,1.0,MGK,active site
+Propylpyrazine,Methyl-coenzyme M reductase (Mcr),EC:1.2.7.12,R_rxn03126_c0,6.463165818627002e-05,-5.715,competitive inhibitor,1.0,MGK,active site

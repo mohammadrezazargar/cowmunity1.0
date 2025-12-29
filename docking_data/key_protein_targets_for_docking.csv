@@ -1,0 +1,5 @@
+priority,species,protein_name,enzyme_name,ec_number,reaction_id,reaction_name,notes
+CRITICAL,MGK,Coenzyme B:coenzyme M:methanophenazine oxidoreductase,Coenzyme B:coenzyme M:methanophenazine oxidoreductase,,R_rxn03126_c0,Coenzyme B:coenzyme M:methanophenazine oxidoreductase_c0,METHANE PRODUCTION - Final step in methanogenesis (Mcr enzyme)
+CRITICAL,MGK,biomass,biomass,,R_biomass0,biomass,BIOMASS PRODUCTION - Cell growth
+CRITICAL,PRM,biomass,biomass,,R_biomass0,biomass,BIOMASS PRODUCTION - Cell growth
+CRITICAL,RFL,biomass,biomass,,R_biomass0,biomass,BIOMASS PRODUCTION - Cell growth
