@@ -127,19 +127,13 @@ CowmunityModel/
 
 ## Citation
 
-If you use this model, please cite:
+If you use this model, please cite us:
 
-- **OptCom Framework**: Zomorrodi, A.R. and C.D. Maranas (2012), "OptCom: A multi-level optimization framework for the metabolic modeling and analysis of microbial communities," PLoS Computational Biology, 8(2):e1002363.
-
-- **SBML Models**: Islam MM, Fernando SC and Saha R (2019), "Metabolic Modeling Elucidates the Transactions in the Rumen Microbiome and the Shifts Upon Virome Interactions," Front. Microbiol. 10:2412.
+-----
 
 ## Authors
 
-The Cowmunity Model was developed by Evan Ingmire in collaboration with Mohammad Reza Zargar, Dr. Karuna Anna Sajeevan, and Dr. Ratul Chowdhury at Iowa State University.
-
-## License
-
-[Specify your license here]
+----
 
 ## Troubleshooting
 
@@ -157,4 +151,4 @@ The Cowmunity Model was developed by Evan Ingmire in collaboration with Mohammad
 
 ## Contact
 
-For questions or issues, please [add your contact information].
+For questions or issues, please contact zargar@iastate.edu
